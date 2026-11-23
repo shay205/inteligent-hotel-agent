@@ -1,0 +1,14 @@
+[theme]
+base = "dark"
+primaryColor = "#C5A875"
+backgroundColor = "#1E1B18"
+secondaryBackgroundColor = "#2D2823"
+textColor = "#F5EFE6"
+borderColor = "#51483F"
+font = "DM Sans:https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&display=swap"
+headingFont = "Cormorant Garamond:https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@500;600;700&display=swap"
+baseRadius = "0.65rem"
+buttonRadius = "999px"
+showWidgetBorder = true
+paddingTop = "1.5rem"
+paddingBottom = "2rem"
